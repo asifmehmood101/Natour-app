@@ -50,6 +50,14 @@
   &::after {
     background-color: $color-white;
   }
+
+  &-1 {
+    color: $color-white;
+    background-color: $color-primary-dark;
+    &::after {
+      background-color: $color-primary-dark;
+    }
+  }
 }
 
 .btn-text {
