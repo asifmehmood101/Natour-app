@@ -11,24 +11,21 @@ Dark green: #28b485
 @import "./abstracts/functions";
 @import "./abstracts/variables";
 @import "./abstracts/mixins";
-
 // base
 @import "./base/animation";
 @import "./base/base";
 @import "./base/typography";
 @import "./base/utilites";
-
 // components
 @import "./components/button";
 @import "./components/composition";
 @import "./components/feature-box";
 @import "./components/card";
-
+@import "./components/story";
+@import "./components/bg-video";
 // layout
 @import "./layouts/header";
-
 // home
 @import "./pages/home";
-
 // grid
 @import "./layouts/grid";
