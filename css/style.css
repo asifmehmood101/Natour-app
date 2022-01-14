@@ -224,7 +224,7 @@ body {
     transform: translateY(-1.5rem) scale(1.1); }
 
 .card {
-  perspective: 150rem;
+  perspective: 1500rem;
   -moz-perspective: 150rem;
   position: relative;
   height: 50rem; }
